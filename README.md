@@ -1,4 +1,4 @@
-# WEB SERVICE
+# VIDEO APP
 
 ## Description
 Simple react app for fetch video from Youtube, using Youtube Data API
